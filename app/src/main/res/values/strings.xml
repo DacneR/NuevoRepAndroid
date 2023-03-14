@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NuevaPrueba</string>
+    <string name="nombreAqui">Inserte su nombre</string>
+    <string name="guardar">Guardar</string>
+</resources>
